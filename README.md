@@ -18,7 +18,8 @@ This course teaches you how to implement "fan-out fan-in" patterns, pause waitin
 Azure Functions custom handlers
 - https://docs.microsoft.com/en-us/azure/azure-functions/functions-custom-handlers
 
-CI/CD For Azure Functions
+Deploy Azure Functions
+- https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops?tabs=dotnet-core%2Cyaml%2Ccsharp
 - https://levelup.gitconnected.com/ci-cd-for-azure-functions-app-by-using-github-and-azure-devops-c6ccfd0decaf
 
 Azure Functions hosting options
