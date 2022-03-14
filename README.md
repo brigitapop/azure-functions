@@ -13,7 +13,7 @@ In this article you learn the high-level concepts surrounding functions triggers
 ### Secure Azure functions
 In this article you learn how to secure Azure Functions.
 - https://docs.microsoft.com/en-us/azure/azure-functions/security-concepts?tabs=v4
-- 
+
 ### Durable Functions 
 Durable Functions enables you to create reliable stateful workflows with Azure Functions. 
 This course teaches you how to implement "fan-out fan-in" patterns, pause waiting for human interaction, and how to debug, deploy, and monitor your workflows.
