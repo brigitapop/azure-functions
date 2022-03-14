@@ -1,7 +1,7 @@
 # Azure functions
 
 ## Learning resources:
-### Basics
+### Overview 
 Azure Functions is the quickest and easiest way to get your code running in Azure. This courses will teach you how to create your own serverless functions implement and bindings.
 - https://app.pluralsight.com/library/courses/microsoft-azure-developer-implement-azure-functions/table-of-contents
 - https://app.pluralsight.com/library/courses/microsoft-azure-serverless-functions-create/table-of-contents
